@@ -1,0 +1,16 @@
+h1{
+    background-image: url(nature\,.jpeg);
+    
+}
+body{
+    background-image: url(nature.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover
+    ;
+}
+div{
+    background-image: url(pics.jpg);
+    background-size: 300px;
+    background: height 200px; ;
+
+}
