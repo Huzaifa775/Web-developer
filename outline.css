@@ -1,8 +1,16 @@
-div{
+/* div{
     boarder: 2px solid rgb(0, 0, 0);
     outline-width:50px;
     outline-color: yellowgreen;
     
 
 
+} */
+div{
+    border: red solid;
+    height: auto;
+    width: 500px;
+    padding: 80px;
+    margin: 40px;
+    box-sizing: border-box;
 }

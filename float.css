@@ -1,0 +1,13 @@
+box1{
+    float: left;
+    border: red solid;
+}
+box2{
+    float:  right;
+    border: red solid;
+}
+box3{
+    border: blue solid;
+    width: 100px;
+    height: auto;
+}
